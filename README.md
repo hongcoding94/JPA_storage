@@ -27,7 +27,7 @@
         - 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화
         - 스프링 데이터 JPA
       
-  - JPA를 사용하면서 겪은 ERROR 및 코드 리뷰
+  - [스터디 프로젝트](https://github.com/WebServiceStudy/WebServiceStudy)에서 JPA를 사용하면서 겪은 ERROR 및 코드 리뷰
   
     - JPA 프로젝트를 하면서 나온 ERROR 내용
     
